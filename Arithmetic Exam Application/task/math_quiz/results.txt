@@ -1,0 +1,15 @@
+Name: Tom
+Level: 1 - simple operations with numbers 2-9
+Score: 5/5
+Time: 14.22 sec
+----------------------------------------
+Name: Tom
+Level: 2 - integral squares of 11-29
+Score: 5/5
+Time: 23.68 sec
+----------------------------------------
+Name: Tom
+Level: 3 - advanced operations (negative numbers, powers)
+Score: 4/5
+Time: 20.24 sec
+----------------------------------------
